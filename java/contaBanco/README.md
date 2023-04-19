@@ -19,4 +19,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 
 
-> :------: **Simulando uma conta bancária através do terminal/console - fundamentos da linguagem e noções de regras de estrutura de sintaxe.**
+> ** :Simulando uma conta bancária através do terminal/console - fundamentos da linguagem e noções de regras de estrutura de sintaxe. : **
