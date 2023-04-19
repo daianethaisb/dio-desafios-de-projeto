@@ -11,9 +11,9 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
->**_ Projeto: Simulando uma conta bancária através do terminal/console - fundamentos da linguagem e noções de regras de estrutura de sintaxe._**
-
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+>**_Projeto: Simulando uma conta bancária através do terminal/console - fundamentos da linguagem e noções de regras de estrutura de sintaxe._**
 
 ## Dependency Management
 
